@@ -1,0 +1,41 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "jhipsterSampleApp",
+    "packageName": "com.github.jhipster.testjhipster",
+    "packageFolder": "com/github/jhipster/testjhipster",
+    "serverPort": 8080,
+    "serviceDiscoveryType": "eureka",
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "no",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "cassandra",
+    "devDatabaseType": "cassandra",
+    "prodDatabaseType": "cassandra",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [
+      "gatling"
+    ],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.7.2",
+    "jwtSecretKey": "Y2Y1MDFhM2Y0OWI0ZjVhYjVjZTA2NWYzMjRkZWFmMGRkMzMwNzQ4OGY1YmZmNGE0YTdiYWM2OWY1NGUzOGU3ZTM2NzI4YWQzZjllMjdmYzFhYzQxMzVkYjdhOTYxOWRlZTI5YzE3YTliZWJiNzAxZTdhNWY1YWZmODNiMzE0OWE=",
+    "otherModules": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "aziz33000",
+  "repository-name": "jhipster-sample-app"
+}
